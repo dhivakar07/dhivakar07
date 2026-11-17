@@ -3,9 +3,6 @@
 Full Stack Web Developer (MERN) 
                                             
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> 
-
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" 
