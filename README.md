@@ -37,7 +37,7 @@
 ### 🛠️ IDEs & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,cursor,git,github,postman,figma,vercel,vite" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,cursor,eclipse,git,github,postman,figma,vercel,vite" alt="tools" />
 </p>
 
 ---
