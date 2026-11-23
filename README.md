@@ -18,19 +18,19 @@
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,redux" alt="frontend skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,framermotion" alt="frontend skills" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,java" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel,vite" alt="backend skills" />
 </p>
 
 ### 🛠️ IDEs & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,git,github,postman,notion,figma,photoshop,xd,netlify" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,postman,figma" alt="tools" />
 </p>
 
 ---
